@@ -28,3 +28,13 @@ A simple command-line contact manager written in Python.
     - Option 0: Exit the program.
 
 
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Install dependencies:
+
+    ```bash
+    pip install tabulate
+    ```
