@@ -38,3 +38,10 @@ A simple command-line contact manager written in Python.
     ```bash
     pip install tabulate
     ```
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/vardhan-ganugula/contact_manager.git
+   cd contact-manager
